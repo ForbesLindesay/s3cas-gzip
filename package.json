@@ -1,6 +1,6 @@
 {
   "name": "s3cas-gzip",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Content addressable gzipped storage on top of S3",
   "keywords": [],
   "dependencies": {
