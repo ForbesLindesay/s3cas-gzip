@@ -4,7 +4,7 @@
   "description": "Content addressable gzipped storage on top of S3",
   "keywords": [],
   "dependencies": {
-    "promise": "^6.0.1",
+    "promise": "^7.1.1",
     "s3cas": "^1.0.0"
   },
   "devDependencies": {},
