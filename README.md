@@ -1,5 +1,7 @@
 # s3cas-gzip
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/s3cas-gzip.svg)](https://greenkeeper.io/)
+
 Content addressable gzipped storage on top of S3
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/s3cas-gzip/master.svg)](https://travis-ci.org/ForbesLindesay/s3cas-gzip)
